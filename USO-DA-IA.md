@@ -1,10 +1,5 @@
 # Guia de Uso da IA para Criar Plugins
 
-[English](#en-us) | [Português](#pt-br)
-
----
-
-# [PT-BR]
 
 ## Trabalhando com o Composer
 
@@ -137,5 +132,5 @@ Necessidades:
 - Use exemplos reproduzíveis
 
 ## Próximos Passos
-- Para entender a estrutura do projeto, veja [3-ESTRUTURA.md](3-ESTRUTURA.md)
-- Para voltar às instruções de instalação, consulte [1-INSTALACAO.md](1-INSTALACAO.md)
+- Para entender a estrutura do projeto, veja [ESTRUTURA.md](ESTRUTURA.md)
+- Para voltar às instruções de instalação, consulte [INSTALACAO.md](INSTALACAO.md)

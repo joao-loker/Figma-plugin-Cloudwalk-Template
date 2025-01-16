@@ -1,10 +1,5 @@
 # Estrutura do Projeto Figma Plugin
 
-[English](#en-us) | [Português](#pt-br)
-
----
-
-# [PT-BR]
 
 ## Visão Geral da Estrutura
 
@@ -125,5 +120,5 @@ Definições de tipos para TypeScript:
 - Use comentários para explicar partes complexas
 
 ## Próximos Passos
-- Para voltar às instruções de instalação, veja [1-INSTALACAO.md](1-INSTALACAO.md)
-- Para aprender a usar as IAs no desenvolvimento, consulte [2-USO-DA-IA.md](2-USO-DA-IA.md)
+- Para voltar às instruções de instalação, veja [INSTALACAO.md](INSTALACAO.md)
+- Para aprender a usar as IAs no desenvolvimento, consulte [USO-DA-IA.md](USO-DA-IA.md)
