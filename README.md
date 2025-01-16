@@ -1,4 +1,4 @@
-# Figma Plugin React Template with AI Integration
+# Figma plugin Cloudwalk Template
 
 ![62862431-71537f00-bd0e-11e9-85db-d97c0fb729a4](https://user-images.githubusercontent.com/16322616/62862692-46b5f600-bd0f-11e9-93b0-75955d1de8f3.png)
 
@@ -73,7 +73,7 @@ Existem duas formas de baixar:
 #### Opção 2 (Alternativa):
 Se você já conhece GitHub:
 ```bash
-git clone https://github.com/[your-username]/figma-plugin-react-template.git
+git clone https://github.com/joao-loker/Figma-plugin-Cloudwalk-Template.git
 ```
 
 ### 4. Configure o Projeto
